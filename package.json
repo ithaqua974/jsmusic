@@ -1,0 +1,25 @@
+{
+  "name": "jsmusic",
+  "version": "1.0.0",
+  "description": "synth js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ithaqua974/jsmusic.git"
+  },
+  "author": "tristan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ithaqua974/jsmusic/issues"
+  },
+  "homepage": "https://github.com/ithaqua974/jsmusic#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "tone": "^13.8.25"
+  }
+}
